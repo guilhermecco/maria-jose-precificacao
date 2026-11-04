@@ -1,0 +1,9 @@
+{
+  "name": "maria-jose-precificacao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Calculadora e cadastro de precificação por empresa - Maria José",
+  "scripts": {"dev": "vercel dev", "test": "node --test"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"googleapis": "^144.0.0"}
+}
